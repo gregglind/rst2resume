@@ -1,0 +1,22 @@
+body {
+    margin-right: auto;
+    color: #333;
+    font-family: Helvetica, Arial, Sans Serif;
+    font-size: 10pt;
+    line-height: 1.3em;
+}
+
+h1 {
+    color: #555;
+}
+
+h1.title{
+    font-size: 14pt;
+    color: 	#555;
+}
+
+.section h1 {
+    font-size: 12pt;
+}
+
+

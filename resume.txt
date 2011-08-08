@@ -6,11 +6,15 @@ Resume
 Contact
 ----------
 Gregg Lind.  Programmer.
-1014 E. 36th St,  Minneapolis, MN, USA, 55407              
-gregg.lind@gmail.com        
-http://writeonly.wordpress.com       
-cell: 651.222.1329
 
+    * 1014 E. 36th St,  Minneapolis, MN, USA, 55407              
+    * gregg.lind@gmail.com        
+    * http://writeonly.wordpress.com       
+    * cell: 651.222.1329
+    * linkedin:  
+    * github:
+    * stackoverflow:
+    * bitbucket:
 
 Pragmatic, experienced programmer who gets things done.  Fast, simple, smart designs uniting storage, access,
 retrieval and analysis.  Believer in 'The Unix Way'.  Business-needs-aware, sales- and end-user focused.
@@ -92,6 +96,8 @@ skills
 publications
 ---------------
 
+  * http://www.wired.com/threatlevel/2011/01/egypt-isp-shuttered/
+  * http://www.renesys.com/challenge_site
   * (various about programming topics)  “Write-only by Gregg Lind:  Programming, Numbers and Other Kinks” at http://writeonly.wordpress.com/ 
   * Lind, Gregg and Dan Callahan.  “Python Spring Cleaning.”  PyCon 2010, Atlanta, GA
   * Lind GR, Miller MB.  2007.  “Power Calculations for Genetic Studies using Simulated Data”.  UseR! 2007.  Ames, Iowa.   
