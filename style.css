@@ -1,9 +1,11 @@
 body {
     margin-right: auto;
+    margin-left: 1in;
+    width: 6.5in;
     color: #333;
     font-family: Helvetica, Arial, Sans Serif;
     font-size: 10pt;
-    line-height: 1.3em;
+    line-height: 1.5em;
 }
 
 h1 {
@@ -15,8 +17,60 @@ h1.title{
     color: 	#555;
 }
 
-.section h1 {
-    font-size: 12pt;
+.section {
+
+    /*border: 1px solid blue; */
+    border-top: 1px solid grey;
+    padding:  0cm 0cm  0cm 2cm;
+    position: relative; /* need this to get the h1 to be moveable */
 }
 
+.section h1 {
+
+
+    -webkit-transform: translate(-100%, 0%) rotate(-90deg);
+    -webkit-transform-origin: 100% 0%;
+
+
+/*    -o-transform:translate(100px) rotate(-90deg); 
+    -o-transform-origin:60% 100%;
+
+    -ms-transform: translate(100px) rotate(-90deg);
+    -ms-transform-origin: 60% 100%;
+
+    transform: translate(100px) rotate(-90deg);
+    transform-origin: 60% 100%;*/
+
+    /*border: 1px solid red;*/
+    font-size: 12pt;   
+    font-weight: normal;
+    letter-spacing: 3px; 
+    position: absolute;
+    margin: 0;
+    padding: 0 1em;
+    left:0;
+    top:0;
+    font-family:  serif;
+}
+
+ul {
+	list-style: disc outside;
+	margin-left: 0;
+	padding-left: 0em;
+	text-indent:  0em;
+	}
+
+li {
+    margin-left: 0px;
+}
+
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left:0px;
+}
+#publictions {page-break-before: always;}
 

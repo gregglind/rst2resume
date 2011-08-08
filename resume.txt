@@ -1,20 +1,17 @@
-====================================
-Resume
-====================================
 
 ----------
-Contact
+contact
 ----------
 Gregg Lind.  Programmer.
 
-    * 1014 E. 36th St,  Minneapolis, MN, USA, 55407              
-    * gregg.lind@gmail.com        
-    * http://writeonly.wordpress.com       
-    * cell: 651.222.1329
-    * linkedin:  
-    * github:
-    * stackoverflow:
-    * bitbucket:
+* 1014 E. 36th St,  Minneapolis, MN, USA, 55407              
+* gregg.lind@gmail.com        
+* http://writeonly.wordpress.com       
+* cell: 651.222.1329
+* linkedin:  
+* github:
+* stackoverflow:
+* bitbucket:
 
 Pragmatic, experienced programmer who gets things done.  Fast, simple, smart designs uniting storage, access,
 retrieval and analysis.  Believer in 'The Unix Way'.  Business-needs-aware, sales- and end-user focused.
@@ -23,100 +20,96 @@ web (layout, design, UI), data storage (SQL, NoSQL) and statistics.  Eager to he
 
 
 --------------
-Employment
+employment
 --------------
 
 Renesys Corp.  Programmer.  2007-present. 
-  * Analysis, processing, and storage of high-volume network protocol data (BGP, traceroute,  others).
-  * Unified cli , xml-rpc, web interfaces to existing and newly created Renesys tools.
-  * Designed and build storage architectures using file system, BerkeleyDB, MongoDB, PostgreSQL.
-  * RESTful web design using Webob, Web.py, Jinja2, JQuery, 960.gs.  
-  * Graph analysis and visualization (of BGP edge routers, e.g.) using NetworkX, Graphviz.
-  * rss_puller: Topic analysis and search of  200,000 RSS feeds, using TF-IDF, Bloom Filters, LSI, LDA.
+    * Analysis, processing, and storage of high-volume network protocol data (BGP, traceroute,  others).
+    * Unified cli , xml-rpc, web interfaces to existing and newly created Renesys tools.
+    * Designed and build storage architectures using file system, BerkeleyDB, MongoDB, PostgreSQL.
+    * RESTful web design using Webob, Web.py, Jinja2, JQuery, 960.gs.  
+    * Graph analysis and visualization (of BGP edge routers, e.g.) using NetworkX, Graphviz.
+    * rss_puller: Topic analysis and search of  200,000 RSS feeds, using TF-IDF, Bloom Filters, LSI, LDA.
 
 U of Minnesota, School of Public Health.  Researcher (various).  2003-2007.
-  * Research on genetics of complex diseases including asthma and cardiovascular disease.
-  * Novel simulation with large data sets, data cleaning error checking, algorithm design and efficiency. 
-  * Author:  GenetSim R package and PedSeer genetic data visualization package.
-  * Biostatistics TA of the Year (2005).  Courses included “SAS Procedures” and “Biostatistics Methods I”.
-  * Data analysis on Men’s Internet Health Study (MINTS) for Program in Human Sexuality.
+    * Research on genetics of complex diseases including asthma and cardiovascular disease.
+    * Novel simulation with large data sets, data cleaning error checking, algorithm design and efficiency. 
+    * Author:  GenetSim R package and PedSeer genetic data visualization package.
+    * Biostatistics TA of the Year (2005).  Courses included “SAS Procedures” and “Biostatistics Methods I”.
+    * Data analysis on Men’s Internet Health Study (MINTS) for Program in Human Sexuality.
 
 Reden & Anders / Ingenix.   Health Sciences Research Associate.  2004. 
-  * Contract research on Hyperphosphatemia incidence and prevalence among end-stage renal disease patients.  Part of an effort to estimate financial impact on health insurers of a new drug treatment.
+    * Contract research on Hyperphosphatemia incidence and prevalence among end-stage renal disease patients.  Part of an effort to estimate financial impact on health insurers of a new drug treatment.
 
 eFunds.   Decision Analyst.  2002-2003. 
-  * Created and evaluated SAS models and decision trees for use in check-fraud risk evaluation.  Optimized parameters for retail clients to produce risk reduction of up to $6 million annually.  Lead analyst for the SCAN check-fraud prediction product.  
-  * Exploratory and logistic model building based on large transaction databases (1 billion+ records) using SAS / BASE, SAS / STAT, and SAS / ACCESS, and and KnowledgeSeeker. 
+    * Created and evaluated SAS models and decision trees for use in check-fraud risk evaluation.  Optimized parameters for retail clients to produce risk reduction of up to $6 million annually.  Lead analyst for the SCAN check-fraud prediction product.  
+    * Exploratory and logistic model building based on large transaction databases (1 billion+ records) using SAS / BASE, SAS / STAT, and SAS / ACCESS, and and KnowledgeSeeker. 
 
 -------------
 education
 -------------
 
 University of Minnesota. Minneapolis, Minnesota.  2003-2005.
-  * M.S.–Biostatistics, 3.4 GPA (Degree awarded, 5/06) 
-  * Areas of interest:  literate programming, software usability, data mining, sampling methods,  stochastic modeling, multiple comparison issues, estimators, simulation, algorithms, software design, visual representation of data and statistical graphics.
-  * Relevant coursework:  Data Algorithms, Bayesian Statistics, Theory of Statistics.  SAS Procedures.  
-  * Thesis:  PedSeer: A program for visualizing, modifying, and repairing pedigree data. (Python / wxWidgets)  
+    * M.S.–Biostatistics, 3.4 GPA (Degree awarded, 5/06) 
+    * Areas of interest:  literate programming, software usability, data mining, sampling methods,  stochastic modeling, multiple comparison issues, estimators, simulation, algorithms, software design, visual representation of data and statistical graphics.
+    * Relevant coursework:  Data Algorithms, Bayesian Statistics, Theory of Statistics.  SAS Procedures.  
+    * Thesis:  PedSeer: A program for visualizing, modifying, and repairing pedigree data. (Python / wxWidgets)  
 
 Grinnell College. Grinnell, Iowa. 1996-1998.
-  * B.A.–General Science (Biology) and Anthropology (Honors). 3.54 (of 4.0) GPA
+    * B.A.–General Science (Biology) and Anthropology (Honors). 3.54 (of 4.0) GPA
 
 --------------
 open source
 --------------
 
-::
-
-    * WHython - Whitespace Haters Python.  Author.  4/2010
-    * GenetSim R package (currently unreleased).  Author
-    * Contributor to PyMongo, MongoDB, Web.py, PyBloomMMap, Python
-    * Attendee/Organizer:  NoSQL Live (Boston), 3/2010
-    * Member/Presenter:  PyMNtos - Python Minnesota
-    * Taught:  “Bits and Bites - Programming First Steps”.  Twin Cities Experimental College, Fall 2009.
-    * StackOverflow:  gregg-lind (2204 points, active in: python statistics algorithm nlp r)
+* WHython - Whitespace Haters Python.  Author.  4/2010
+* GenetSim R package (currently unreleased).  Author
+* Contributor to PyMongo, MongoDB, Web.py, PyBloomMMap, Python
+* Attendee/Organizer:  NoSQL Live (Boston), 3/2010
+* Member/Presenter:  PyMNtos - Python Minnesota
+* Taught:  “Bits and Bites - Programming First Steps”.  Twin Cities Experimental College, Fall 2009.
+* StackOverflow:  gregg-lind (2204 points, active in: python statistics algorithm nlp r)
 
 ---------------
 skills 
 ---------------
 
-  * Python, including NetworkX, Werkzeug, Web.py, PyBloomFilterMMap, lxml,  NLTK, PyParsing
-  * simple javascript (mostly JQuery)
-  * source control systems, including Git, Subversion, Mercurial
-  * basic RPM and Deb packaging
-  * standard Unix tools and methods.  Regular expressions, filters, pipelines, bash, awk
-  * Cython, simple C extensions in Python and R
-  * R, Octave/MATLAB, SAS, other statistical packages
-  * statistical methods:  graph theory, text analysis (LDA, LSI, TFIDF), market basket analysis and mining, time series, matrix algebra, survival, univariate and multivariate statistics.  
-  * methodologies/idioms:  agile, test-driven, REST,  map/reduce, complexity analysis (Big O).  functional programming, OO, convention over configuration
-  * relational and non-relational databases (PostgreSQL, MongoDB, LDAP, other NoSQL)
-  * basic proficiency in Ruby, Haskell, Scheme, C
-  * web layout, design (PS, JavaScript, CSS), UI, and python-wsgi (apache) deployment.  
+* Python, including NetworkX, Werkzeug, Web.py, PyBloomFilterMMap, lxml,  NLTK, PyParsing
+* simple javascript (mostly JQuery)
+* source control systems, including Git, Subversion, Mercurial
+* basic RPM and Deb packaging
+* standard Unix tools and methods.  Regular expressions, filters, pipelines, bash, awk
+* Cython, simple C extensions in Python and R
+* R, Octave/MATLAB, SAS, other statistical packages
+* statistical methods:  graph theory, text analysis (LDA, LSI, TFIDF), market basket analysis and mining, time series, matrix algebra, survival, univariate and multivariate statistics.  
+* methodologies/idioms:  agile, test-driven, REST,  map/reduce, complexity analysis (Big O).  functional programming, OO, convention over configuration
+* relational and non-relational databases (PostgreSQL, MongoDB, LDAP, other NoSQL)
+* basic proficiency in Ruby, Haskell, Scheme, C
+* web layout, design (PS, JavaScript, CSS), UI, and python-wsgi (apache) deployment.  
 
 ---------------
 publications
 ---------------
 
-  * http://www.wired.com/threatlevel/2011/01/egypt-isp-shuttered/
-  * http://www.renesys.com/challenge_site
-  * (various about programming topics)  “Write-only by Gregg Lind:  Programming, Numbers and Other Kinks” at http://writeonly.wordpress.com/ 
-  * Lind, Gregg and Dan Callahan.  “Python Spring Cleaning.”  PyCon 2010, Atlanta, GA
-  * Lind GR, Miller MB.  2007.  “Power Calculations for Genetic Studies using Simulated Data”.  UseR! 2007.  Ames, Iowa.   
-  * Miller MB, Lind GR, Li N & Jang S-Y. (in press, 2007). "Genetic Analysis Workshop 15: Simulation of a complex genetic model for rheumatoid arthritis in nuclear families including a dense SNP map with linkage disequilibrium between marker loci and trait loci".  BMC Genetics. 
-  * Jackola, Duaine, et al.  (submitted, 2007).  "Search for Quantitative Trait Loci of Atopy-Associated Immune Responses Using Allergen-Specific IgG1 as an ‘Endophenotype.’"   Journal of Allergy and Clinical Immunology. 
-  * Kamp, Kathryn, et al. 1998. "Discovering Childhood: Using Fingerprints to Find Children in the Archaeological Record" American Antiquity.  64:2.
+* http://www.wired.com/threatlevel/2011/01/egypt-isp-shuttered/
+* http://www.renesys.com/challenge_site
+* (various about programming topics)  “Write-only by Gregg Lind:  Programming, Numbers and Other Kinks” at http://writeonly.wordpress.com/ 
+* Lind, Gregg and Dan Callahan.  “Python Spring Cleaning.”  PyCon 2010, Atlanta, GA
+* Lind GR, Miller MB.  2007.  “Power Calculations for Genetic Studies using Simulated Data”.  UseR! 2007.  Ames, Iowa.   
+* Miller MB, Lind GR, Li N & Jang S-Y. (in press, 2007). "Genetic Analysis Workshop 15: Simulation of a complex genetic model for rheumatoid arthritis in nuclear families including a dense SNP map with linkage disequilibrium between marker loci and trait loci".  BMC Genetics. 
+* Jackola, Duaine, et al.  (submitted, 2007).  "Search for Quantitative Trait Loci of Atopy-Associated Immune Responses Using Allergen-Specific IgG1 as an ‘Endophenotype.’"   Journal of Allergy and Clinical Immunology. 
+* Kamp, Kathryn, et al. 1998. "Discovering Childhood: Using Fingerprints to Find Children in the Archaeological Record" American Antiquity.  64:2.
 
 
 -------------
 civic life
 -------------
 
-
-
 Powderhorn Park Neighborhood Association.  2005-2009
-  * Elected At-Large Board Member.  Helped manage $800,000 budget, secure new sources of  funding. 
-  * Search committee co-chair for new Executive Director.  Managed interview and selection process – candidate selected from 48 applicants on-time.   
+    * Elected At-Large Board Member.  Helped manage $800,000 budget, secure new sources of  funding. 
+    * Search committee co-chair for new Executive Director.  Managed interview and selection process – candidate selected from 48 applicants on-time.   
    
 Sexy Spring Collective.  2005-2010
-  * Board Member.  Committees:  Fundraising, Publicity, Location Site / Facilities. 
-  * Achievements included raising $3200, grant writing, conference organizing, overseeing more  than 30 volunteers, and securing official University of Minnesota conference sponsorship.  
+    * Board Member.  Committees:  Fundraising, Publicity, Location Site / Facilities. 
+    * Achievements included raising $3200, grant writing, conference organizing, overseeing more  than 30 volunteers, and securing official University of Minnesota conference sponsorship.  
 
