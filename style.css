@@ -207,7 +207,7 @@ li strong {
 .shortcontact {
     /* width: 80%; */
     margin: auto;
-    color: grey;
+    color: inherit;
 }
 
 .shortcontact a {
@@ -216,10 +216,13 @@ li strong {
 }
 
 
+
 a {
     text-decoration: none;
     color: inherit;
-    color:  #AAA;
+    /*color:  #55F;*/
+    color:  #327CCB;
+    font-weight: normal;
 }
 
 
