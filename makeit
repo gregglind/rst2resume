@@ -1,4 +1,4 @@
 #!/bin/bash
 rst2html.py --link-stylesheet --no-doc-title --stylesheet style.css resume.txt > resume.html
 echo "open the file in SAFARI (not chrome), then save as pdf" 
-echo "$ /Applications/Safari.app/Contents/MacOS/Safari resume.html & & & & & & & & &"
+echo "$ /Applications/Safari.app/Contents/MacOS/Safari resume.html &" 
