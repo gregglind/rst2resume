@@ -10,7 +10,7 @@ Use:
 #. ``git clone git@github.com:gregglind/rst2resume.git``
 #. ``pip install docutils``
 #. copy files from the example directory, season to taste
-#. edit 'resume.html' as you see fit.  Main things:
+#. edit ``resume.html`` as you see fit.  Main things:
     #. add ``.. class:: pagebreak`` before sections that 
        need a pdf page break
     #. add/remove extra classes if you need more styles
