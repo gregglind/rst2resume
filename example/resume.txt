@@ -1,0 +1,189 @@
+
+----------
+summary
+----------
+.. class:: myname
+
+Gregg Lind
+
+.. class:: tagline
+
+Entrepreneur, Programmer, Statician, Tech Activist.
+
+
+.. class:: summary
+
+**Pragmatic, experienced programmer who gets things done.**  Fast, simple, smart designs uniting display, storage, 
+retrieval and analysis.  Entreprenurial, business-needs-aware, sales- and end-user focused.
+Capable presenter, project manager, and design architect.  Skills in programming (Python, JS, R, Bash),
+data storage (SQL, NoSQL), web (layout, design, UI), and statistics (M.S., U of MN).  Believer in 'The Unix Way'. 
+Eager to help grow companies.  Successful remote worker.  *Open to contracts, telecommute, full-time positions.*
+
+.. class:: shortcontact
+
+gregg.lind@gmail.com - 651.222.1329 - Minneapolis, MN
+
+--------------
+employment
+--------------
+Qualtrx.  Co-founder.  2011. 
+    * MN Cup Semi-finalist, Biosciences Division (http://bit.ly/k0UW1x).
+    * Project Skyway (selected for inagural class).
+    * Successful on-going pilot at Hennepin County Medical Center.
+    * Coding and research using html5boilerplate, Python(Flask), MongoDB.
+
+Renesys Corp.  Senior Programmer.  2007-2011. 
+    * Visualization of Egyptian Internet Outage (http://wired.com/threatlevel/2011/01/egypt-isp-shuttered/).
+    * Renesys Challenge Site (http://renesys.com/challenge_site) for filtering candidates.
+    * Analysis, processing, and storage of high-volume network data (BGP, traceroute).
+    * DSL (with cli, xml-rpc, http interfaces) unifying all Renesys data.
+    * Designed and build storage architectures using file system, BerkeleyDB, MongoDB, PostgreSQL.
+    * RESTful web design using Flask, Webob, Web.py, Jinja2, JQuery, 960.gs.  
+    * Graph analysis and visualization (of BGP edge routers, e.g.) using NetworkX, Graphviz.
+    * Topic analysis of 200,000 RSS feeds, using TF-IDF, Bloom Filters, LSI, LDA.
+
+U of Minnesota, School of Public Health.  Researcher (various).  2003-2007.
+    * Research on genetics of complex diseases including asthma and cardiovascular disease.
+    * Novel genetics simulation with large data sets. cleaning, validation, algorithm design, efficiency. 
+    * GenetSim R package and PedSeer genetic data visualization package.
+    * Biostatistics TA of the Year (2005).  Courses included “SAS Procedures” and “Biostatistics Methods I”.
+    * Data analysis on Men’s Internet Health Study (MINTS) for Program in Human Sexuality.
+
+
+.. Reden & Anders / Ingenix.   Health Sciences Research Associate.  2004. 
+..     * Contract research on Hyperphosphatemia incidence and prevalence among end-stage renal disease patients.  Part of an effort to estimate financial impact on health insurers of a new drug treatment.
+
+eFunds.   Decision Analyst.  2002-2003. 
+    * SAS models and decision trees for use in check-fraud risk evaluation.  Optimized parameters for retail clients to produce risk reduction of up to $6 million annually.  Lead analyst for the SCAN check-fraud prediction product.  
+    * Exploratory and logistic model building based on large transaction databases (1 billion+ records) using SAS/BASE, SAS/STAT, SAS/ACCESS, and and KnowledgeSeeker. 
+
+.. class:: pagebreak
+
+-------------
+education
+-------------
+
+University of Minnesota. Minneapolis, Minnesota.  2003-2005.
+    * M.S.–Biostatistics, 3.4 GPA (Degree awarded, 5/06).
+    * Areas of interest:  literate programming, software usability, data mining, sampling methods,  stochastic modeling, multiple comparison issues, estimators, simulation, algorithms, software design, visual representation of data and statistical graphics.
+    * Relevant coursework:  Data Algorithms, Bayesian Statistics, Theory of Statistics.  Regression.  Survival Analysis.  SAS Procedures.  
+    * *PedSeer: A program for visualizing, modifying, and repairing pedigree data.* (Python/wxWidgets).
+
+Grinnell College. Grinnell, Iowa. 1996-1998.
+    * B.A.–General Science (Biology) and Anthropology (Honors). 3.54 (of 4.0) GPA.
+
+
+---------------
+skills 
+---------------
+
+* Python (Flask, Django, NetworkX, Nose, Web.py, SciPy, lxml, NLTK, PyParsing).
+* jQuery, qUnit, jQuery-ui, Javascript.
+* Source control systems (Git, Subversion, Mercurial).
+* Operations (RPM packaging, Upstart, Puppet).
+* Unix tools and methods: regular expressions, filters, pipelines, bash, awk.
+* Cython, simple C extensions in Python and R.
+* R, Octave/MATLAB, SAS, other statistical packages.
+* Statistical methods:  graph theory, text analysis (LDA, LSI, TFIDF), market basket analysis and mining, time series, matrix algebra, survival, univariate and multivariate statistics.  
+* Methodologies/idioms:  agile, test-driven (TDD/BDD), REST,  map/reduce, complexity analysis (Big O).  functional programming, OO, convention over configuration.
+* Relational and non-relational databases (PostgreSQL, MongoDB, LDAP, other NoSQL).
+* Basic proficiency in Ruby, Haskell, Scheme, C.
+* Web layout, design (PS, JavaScript, CSS), UI, and deployment.  
+
+-------------------------
+activism / professional
+-------------------------
+
+Co-founder:  PyStar, Programming Workshops for Women and their Friends (http://www.pystar.org).
+    * First workshop ran 11 days after starting the project.
+    * Workshops in SF, Paris, Minneapolis, Philadelphia, Chicago.
+
+PyMNtos (Python Minnesota), co-chair, lightning wrangler.
+    * Moved from Nerdery to Clockwork.  Increase attendence from 12 to 28.
+
+
+(Odds and Ends)
+    * "Building The Tech Community You Want to See".  Minnebar 2011.  http://sessions.minnestar.org/sessions/113 .
+    * WHython - Whitespace Haters Python.  Author.  4/2010.
+    * Attendee/Co-organizer:  NoSQL Live (Boston), 3/2010.
+    * GenetSim R package (currently unreleased).
+    * Contributor to PyMongo, MongoDB, Web.py, PyBloomMMap, Python.
+    * “Bits and Bites - Programming First Steps”.  Twin Cities Experimental College, Fall 2009.  Co-taught.
+
+.. class:: pagebreak
+
+Powderhorn Park Neighborhood Association.  2005-2009.
+    * Elected At-Large Board Member.  Helped manage $800,000 budget, secure new sources of  funding. 
+    * Search committee co-chair for new Executive Director.  Managed interview and selection from 48 candidates.   
+   
+Sexy Spring Collective.  2005-2010.
+    * Board Member.  Committees:  Fundraising, Publicity, Location Site / Facilities. 
+    * Achievements included raising $3200, grant writing, conference organizing, overseeing more  than 30 volunteers, and securing official University of Minnesota conference sponsorship.  
+
+---------------
+publications
+---------------
+
+* Co-Author:  Visualization of Egyptian Internet Outage:  http://www.renesys.com/blog/assets_c/2011/01/noor-thumb-600x498-201.png
+* http://www.wired.com/threatlevel/2011/01/egypt-isp-shuttered/
+* http://www.renesys.com/challenge_site
+* PyStar, Programming Workshops for Women and their Friends (http://www.pystar.org).
+* (various about programming topics)  “Write-only by Gregg Lind:  Programming, Numbers and Other Kinks” at http://writeonly.wordpress.com/\.
+* Lind, Gregg and Dan Callahan.  “Python Spring Cleaning.”  PyCon 2010 Lightning, Atlanta, GA.
+* Lind GR, Miller MB.  2007.  “Power Calculations for Genetic Studies using Simulated Data”.  UseR! 2007.  Ames, Iowa.
+* Miller MB, Lind GR, Li N & Jang S-Y.  2007. "Genetic Analysis Workshop 15: Simulation of a complex genetic model for rheumatoid arthritis in nuclear families including a dense SNP map with linkage disequilibrium between marker loci and trait loci".  BMC Genetics. 
+* Jackola, Duaine, et al.  2007.  "Search for Quantitative Trait Loci of Atopy-Associated Immune Responses Using Allergen-Specific IgG1 as an ‘Endophenotype.’"   Journal of Allergy and Clinical Immunology.  (Supporting work).
+* Kamp, Kathryn, et al. 1998. "Discovering Childhood: Using Fingerprints to Find Children in the Archaeological Record" American Antiquity.  64:2.
+
+
+-----------------
+contact
+-----------------
+
+.. class:: contactlist
+
+* **email:**  gregg.lind@gmail.com        
+* **twitter:** @gregglind
+* **cell:** 651.222.1329
+* **skype:**  gregg.lind
+* **irc:**  irc.freenode.com/gregglind
+* **linkedin:**  http://www.linkedin.com/pub/gregg-lind/4/33/476
+* **github:** https://github.com/gregglind
+* **stackoverflow:**  http://stackoverflow.com/users/15842/gregg-lind
+* **address:** 1014 E. 36th St,  Minneapolis, MN, USA, 55407              
+* **blog:** http://writeonly.wordpress.com       
+
+-----------------
+links
+-----------------
+
+.. image:: http://www.renesys.com/blog/assets_c/2011/01/noor-thumb-600x498-201.png
+   :width: 80px
+   :height: 80px
+   :target: http://www.wired.com/threatlevel/2011/01/egypt-isp-shuttered/
+
+..  image:: http://pystar.org/_static/pystar_flaming_160_150px.png
+    :width: 80px
+    :height: 80px
+    :target: http://pystar.org/
+
+..  image::  http://www.renesys.com/challenge_site/static/images/no_zealand.png
+    :width: 80px
+    :height: 80px
+    :target: http://www.renesys.com/challenge_site/
+
+..  image:: https://secure.gravatar.com/avatar/58d77327a8f46041462b31c117e5c51a?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png
+    :width: 80px
+    :height: 80px
+    :target: http://writeonly.wordpress.com/2010/04/01/whython-python-for-people-who-hate-whitespace/
+
+..  image::  http://genetsim.org/class/gaw15_model.png
+    :width: 80px
+    :height: 80px
+    :target: http://genetsim.org/poster/GenetSim_IGES_2005_poster.pdf
+
+.. ..  image:: http://www.pixinbrix.com/images/legos0026.jpg
+..    :width: 80px
+..    :height: 80px
+..    :target: http://genetsim.org/poster/GenetSim_IGES_2005_poster.pdf
+
