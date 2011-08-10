@@ -99,7 +99,8 @@ to take it and there are plenty of things to improve in mine!)
 #. **Passing the HR buzzword filter** is hard and tedious, so move all that 
    stuff to the end.  
 #. **De-empahasize dates**.  Ageism exists, especially in tech.  
-#. Move contact info (including possibly name!) to header or footer.  
+#. **Move contact info** (including possibly name!) to header or footer.  Blind
+   the resume to any bias-inducing information (name, apparent gender, etc.).
 
 Other Tips
 ---------------
