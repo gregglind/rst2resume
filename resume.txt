@@ -8,7 +8,7 @@ Gregg Lind
 
 .. class:: tagline
 
-Entrepreneur, Programmer, Statician, Tech Activist.
+Entrepreneur, Programmer, Statistician, Tech Activist.
 
 
 .. class:: summary
@@ -28,25 +28,25 @@ employment
 --------------
 Qualtrx.  Co-founder.  2011. 
     * MN Cup Semi-finalist, Biosciences Division (http://bit.ly/k0UW1x).
-    * Project Skyway (selected for inagural class).
+    * Project Skyway (selected for inaugural class).
     * Successful on-going pilot at Hennepin County Medical Center.
-    * Coding and research using html5boilerplate, Python(Flask), MongoDB.
+    * Coding and research using html5boilerplate, Python (Flask), MongoDB.
 
 Renesys Corp.  Senior Programmer.  2007-2011. 
     * Visualization of Egyptian Internet Outage (http://wired.com/threatlevel/2011/01/egypt-isp-shuttered/).
     * Renesys Challenge Site (http://renesys.com/challenge_site) for filtering candidates.
     * Analysis, processing, and storage of high-volume network data (BGP, traceroute).
     * DSL (with cli, xml-rpc, http interfaces) unifying all Renesys data.
-    * Designed and build storage architectures using file system, BerkeleyDB, MongoDB, PostgreSQL.
+    * Designed and built storage architectures (file system, BerkeleyDB, MongoDB, PostgreSQL).
     * RESTful web design using Flask, Webob, Web.py, Jinja2, JQuery, 960.gs.  
     * Graph analysis and visualization (of BGP edge routers, e.g.) using NetworkX, Graphviz.
     * Topic analysis of 200,000 RSS feeds, using TF-IDF, Bloom Filters, LSI, LDA.
 
 U of Minnesota, School of Public Health.  Researcher (various).  2003-2007.
     * Research on genetics of complex diseases including asthma and cardiovascular disease.
-    * Novel genetics simulation with large data sets. cleaning, validation, algorithm design, efficiency. 
+    * Novel genetics simulation with large data sets (cleaning, validation, algorithm design, efficiency). 
     * GenetSim R package and PedSeer genetic data visualization package.
-    * Biostatistics TA of the Year (2005).  Courses included “SAS Procedures” and “Biostatistics Methods I”.
+    * Biostatistics TA of the Year (2005): courses included “SAS Procedures” and “Biostatistics Methods I”.
     * Data analysis on Men’s Internet Health Study (MINTS) for Program in Human Sexuality.
 
 
@@ -55,7 +55,7 @@ U of Minnesota, School of Public Health.  Researcher (various).  2003-2007.
 
 eFunds.   Decision Analyst.  2002-2003. 
     * SAS models and decision trees for use in check-fraud risk evaluation.  Optimized parameters for retail clients to produce risk reduction of up to $6 million annually.  Lead analyst for the SCAN check-fraud prediction product.  
-    * Exploratory and logistic model building based on large transaction databases (1 billion+ records) using SAS/BASE, SAS/STAT, SAS/ACCESS, and and KnowledgeSeeker. 
+    * Exploratory and logistic model building based on large transaction databases (1 billion+ records) using SAS/BASE, SAS/STAT, SAS/ACCESS, and KnowledgeSeeker. 
 
 .. class:: pagebreak
 
@@ -65,8 +65,8 @@ education
 
 University of Minnesota. Minneapolis, Minnesota.  2003-2005.
     * M.S.–Biostatistics, 3.4 GPA (Degree awarded, 5/06).
-    * Areas of interest:  literate programming, software usability, data mining, sampling methods,  stochastic modeling, multiple comparison issues, estimators, simulation, algorithms, software design, visual representation of data and statistical graphics.
-    * Relevant coursework:  Data Algorithms, Bayesian Statistics, Theory of Statistics.  Regression.  Survival Analysis.  SAS Procedures.  
+    * Areas of interest:  literate programming, software usability, data mining, sampling methods,  stochastic modeling, multiple comparison issues, estimators, simulation, algorithms, software design, visual representation of data, and statistical graphics.
+    * Relevant coursework:  Data Algorithms, Bayesian Statistics, Theory of Statistics, Regression, Survival Analysis, SAS Procedures.  
     * *PedSeer: A program for visualizing, modifying, and repairing pedigree data.* (Python/wxWidgets).
 
 Grinnell College. Grinnell, Iowa. 1996-1998.
@@ -98,17 +98,17 @@ Co-founder:  PyStar, Programming Workshops for Women and their Friends (http://w
     * First workshop ran 11 days after starting the project.
     * Workshops in SF, Paris, Minneapolis, Philadelphia, Chicago.
 
-PyMNtos (Python Minnesota), co-chair, lightning wrangler.
-    * Moved from Nerdery to Clockwork.  Increase attendence from 12 to 28.
+PyMNtos (Python Minnesota), co-chair, lightning talk wrangler.
+    * Moved from Nerdery to Clockwork.  Increase attendance from 12 to 28.
 
 
 (Odds and Ends)
-    * "Building The Tech Community You Want to See".  Minnebar 2011.  http://sessions.minnestar.org/sessions/113 .
+    * "Building The Tech Community You Want to See".  Presented at Minnebar 2011.  http://sessions.minnestar.org/sessions/113 .
     * WHython - Whitespace Haters Python.  Author.  4/2010.
-    * Attendee/Co-organizer:  NoSQL Live (Boston), 3/2010.
-    * GenetSim R package (currently unreleased).
+    * NoSQL Live (Boston).  Attendee/Co-organizer. 3/2010.
+    * GenetSim R package.  Co-author.  (currently unreleased).
     * Contributor to PyMongo, MongoDB, Web.py, PyBloomMMap, Python.
-    * “Bits and Bites - Programming First Steps”.  Twin Cities Experimental College, Fall 2009.  Co-taught.
+    * “Bits and Bites - Programming First Steps”.   Co-teacher.  Twin Cities Experimental College, Fall 2009. 
 
 .. class:: pagebreak
 
@@ -128,7 +128,7 @@ publications
 * http://www.wired.com/threatlevel/2011/01/egypt-isp-shuttered/
 * http://www.renesys.com/challenge_site
 * PyStar, Programming Workshops for Women and their Friends (http://www.pystar.org).
-* (various about programming topics)  “Write-only by Gregg Lind:  Programming, Numbers and Other Kinks” at http://writeonly.wordpress.com/\.
+* (various programming topics)  “Write-only by Gregg Lind:  Programming, Numbers and Other Kinks” at http://writeonly.wordpress.com/\.
 * Lind, Gregg and Dan Callahan.  “Python Spring Cleaning.”  PyCon 2010 Lightning, Atlanta, GA.
 * Lind GR, Miller MB.  2007.  “Power Calculations for Genetic Studies using Simulated Data”.  UseR! 2007.  Ames, Iowa.
 * Miller MB, Lind GR, Li N & Jang S-Y.  2007. "Genetic Analysis Workshop 15: Simulation of a complex genetic model for rheumatoid arthritis in nuclear families including a dense SNP map with linkage disequilibrium between marker loci and trait loci".  BMC Genetics. 
